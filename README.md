@@ -1,3 +1,5 @@
+
+![](logo-single-spa.jpg)
 #Demo Single-SPA
 
 Esta demo consta de 5 proyectos.
