@@ -28,4 +28,13 @@ https://single-spa.js.org/docs/ecosystem-react
 Este proyecto es una aplicación sencilla con Angular, en este caso la version 9 
 https://single-spa.js.org/docs/ecosystem-angular
 
+
+Deben de ingresar a cada carpeta del proyecto y correr el comando
+**npm install**
+
+Una vez que hayan terminado de realizar la instalación de los paquetes, por cada proyecto debe de correr el comando 
+**npm run start**
+
+luego ir a la dirección http://localhost:9000
+
 Para más información del Framework vaya ha https://single-spa.js.org/
