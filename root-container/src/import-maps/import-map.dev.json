@@ -4,11 +4,8 @@
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
     "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js",
     "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.0.7/dist/vue-router.min.js",
-
     "@telefonica/root-config": "//localhost:9000/root-config.js",
     "@telefonica/angular-nueve": "//localhost:4200/main.js",
-    "@telefonica/ng-genesis-app": "//localhost:4208/main.js",
-    "@telefonica/angular-siete": "//localhost:4204/main.js",
     "@telefonica/react-hook": "//localhost:8500/telefonica-react-hook.js",
     "@telefonica/vue": "//localhost:8080/app.js",
     "@telefonica/navigation-bar": "//localhost:8600/telefonica-navigation-bar.js"
