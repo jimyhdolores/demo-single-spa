@@ -16,12 +16,6 @@ registerApplication({
   activeWhen: (location) => isActive.angular9(location),
 });
 
-registerApplication({
-  name: "@telefonica/ng-genesis-app",
-  app: () => System.import("@telefonica/ng-genesis-app"),
-  activeWhen: (location) => isActive.ngGenesisAngular9(location),
-});
-
 
 registerApplication({
   name: "@telefonica/vue",
@@ -41,9 +35,5 @@ registerApplication({
   activeWhen: () => true,
 });
 
-registerApplication({
-  name: "@telefonica/angular-siete",
-  app: () => System.import("@telefonica/angular-siete"),
-  activeWhen: isActive.angular7,
-});
+
 start();
