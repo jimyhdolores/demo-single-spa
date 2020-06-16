@@ -1,5 +1,6 @@
+<img src="logo-single-spa.jpg" width="100" height="100"/>
 
-![](logo-single-spa.jpg)
+
 #Demo Single-SPA
 
 Esta demo consta de 5 proyectos.
