@@ -16,7 +16,7 @@ Este proyecto es una aplicación que solo usa HTML y Javascript (Web components)
 El componente lo usaremos para mostrar las otras aplicaciones y tambien servira como un Chat, para intercambiar mensajes con otra aplicación en esta caso con el proyecto "react-hook"
 https://single-spa.js.org/docs/ecosystem-html-web-components
 
-## Vue
+## vue
 
 Este proyecto es una aplicación sencilla con VueJS
 https://single-spa.js.org/docs/ecosystem-vue
